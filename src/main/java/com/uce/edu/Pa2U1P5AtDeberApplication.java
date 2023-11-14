@@ -16,6 +16,7 @@ public class Pa2U1P5AtDeberApplication implements CommandLineRunner{
 		// TODO Auto-generated method stub
 		System.out.println("Tarea");
 		System.out.println("Cambio en la misma rama");
+		System.out.println("Cambio en otro branch");
 	}
 
 }
